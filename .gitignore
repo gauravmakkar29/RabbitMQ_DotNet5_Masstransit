@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/order-ms/.vs
+/order-ms/bin/Debug/net5.0
+/order-ms/obj
+/rabbitmq/bin/Debug
+/rabbitmq/obj
+/rabbitmq-message/bin/Debug
+/rabbitmq-message/.vs
+/rabbitmq-message/obj
+/stock-ms/obj
+/stock-ms/bin/Debug/net5.0
+/stock-ms/.vs
